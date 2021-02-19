@@ -2,9 +2,10 @@
 using namespace std;
 int main(){
 
-int first_var;
-int second_var;
-
+char asfsadfdf;
+double asfasdfasdf;
+if(ture)
+cout<<"new line";
 
 return 0;
 
